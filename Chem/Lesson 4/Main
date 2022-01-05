@@ -1,0 +1,87 @@
+The formula of aluminium sulfate is Al_2(SO_4)_3
+
+Q:How many elements are present in Al_2(SO_4)_3?
+A:3 elements (Al, S, O)
+
+Q: How many atoms are present in one molecule of Al_2(SO_4)_3?
+A: 17 atoms (Al->2, S->3, O->12)
+
+The formula of diluted sodium carbonate is Na_2CO_3 * 10H_2O
+
+Q: How many elements are present in Na_2CO_3 * 10H_2O?
+A? 4 elements (Na, C, O, H)
+
+Q: How many atoms are present in one molecule of Na_2CO_3 * 10H_2O?
+A: 36 atoms (Na->2, C->1, O->13, H->20)
+
+The molecular formula of aluminium sulfate is Al_2(SO_4)_3
+
+Q: Calculate the relative formula mass of Al_2(SO_4)_3.
+A: The relative formula mass of Al_2(SO_4)_3 is
+= 27*2 + (32+16*4)*3
+= 54+96+192
+= 342
+
+Q: Calculate the percentage by mass of each element of Al_2(SO_4)_3
+A: % of Al =  54/342 * 100% = 15.79%
+   % of S  =  96/342 * 100% = 28.07%
+   % of O  = 192/342 * 100% = 56.14%
+
+The formula of hydrated sodium sulfate is Na_2SO_4 * 10H_2O
+Q:Calculate the relative formula mass of Na_2SO_4 * 10H_2O
+A: The relative formula mass of Na_2SO_4 * 10H_2O is
+= 23*2 + 32 + 16*4 + 10(1*2+16)
+= 46 + 32 + 64 + 20 + 160
+= 322
+
+Q: Calculate the percentage by mass of each element of Na_2SO_4 * 10H_2O
+A: % of Na =  46/322 * 100% = 14.29%
+   % of S  =  32/342 * 100% =  6.52%
+   % of O  = 224/342 * 100% = 69.57%
+   % of H  =  20/342 * 100% =  6.21%
+
+Q: Calculate the percentage by mass of water.
+A: % of H_2O = (10(1*2+16))/322 * 100%
+   = 180/322 * 100% = 55.9%
+
+Empirical formula: It is the formula which shows the simples whole number ratio of the atoms of different elements present in one molecule of a compound.
+
+Molecular formula: It is the formula which shows the actual number of atoms of each element present in one molecule of a compound.
+
+The relation between empirical formula and molecular formula is
+Molecular formula = (Empirical formula)n where n = 1,2,3,4 ... a whole number.
+
+Q: An organic compound conatins C -> 38.7%, H -> 9.7%, O -> 56.6% and relative formula mass is 62. Calculate empirical and molecular formula.
+A: C:H:O = 37.7/12 : 9.7/1 : 51.6/16
+         =       1 :     3 :       1
+So, empirical formula is CH_3O
+
+(CH_3O)n = 62
+=> (16+1*3_16)n = 62
+=>          31n = 62
+So,           n = 2
+So, molecular formula is (CH_3O)2 or C_2H_6O_2.
+
+Q: An oxide of iron contains 705 iron by mass, Calculate the impirical formula of this iron oxide.
+A: Fe:O = 70/56 : 30/16
+        =  1.25 : 1.825
+        =     1 : 1.5
+        =     2 :   3
+So, empirical formula is Fe_2O_3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
