@@ -5,14 +5,14 @@ A:Principle: We can prepare hydrogen gas in the laboratory by the reaction of zi
 Reaction: Zn(s)+2HCl(aq) -> ZnCl_2(aq) + H_2(g)
 + Diagram1 +
 
-Description: Some zinc is taken in the flash and arranged the apparatus as shown in the diagram. Dilute hydrochloric acid is added in to the flask by using the tap funnel, then zinc reacts with hydrochloric acid to produce zinc chloride and hydrogen gas which is passed through the delivery tube.
+Description: Some zinc is taken in the flask and arranged the apparatus as shown in the diagram. Dilute hydrochloric acid is added in to the flask by using the tap funnel, then zinc reacts with hydrochloric acid to produce zinc chloride and hydrogen gas which is passed through the delivery tube.
 
 Collection: The produced hydrogen gas collects over water as it is insoluble in water.
 
-Description: Some zinc is taken in the flash and arranged the apparatus as shown in diagram. Dilute hydrochloric acid is added in to the flash by using the tap funnel, then zinc reacts with hydrochloric acid to produce zinc chloride and hydrogen gas which is passed through the delivery tube.
-
 Q:Describe the preparation of dry hydrogen gas.
-A:Principle: We can prepare hydrogen gas in the laboratory by the reaction of zinc with dilute hydrochloric acid.
+A: Description: Some zinc is taken in the flask and arranged the apparatus as shown in the diagram. Dilute hydrochloric acid is added in to the flask by using the tap funnel, then zinc reacts with hydrochloric acid to produce zinc chloride and hydrogen gas which is passed through the delivery tube.
+
+Principle: We can prepare hydrogen gas in the laboratory by the reaction of zinc with dilute hydrochloric acid.
 Reaction: Zn(s)+2HCl(aq) -> ZnCl_2(aq) + H_2(g)
 + Diagram1 + Diagram2 +
 
@@ -28,13 +28,13 @@ Physical Properties of hydrogen gas:
 3.It is insoluble in water.
 4.It is lighter than air.
 
-Chemical test for hydrogen gas.
+Chemical test for hydrogen gas:
 
 It makes a pop sound with a lighted splint.
                  or // Meaning you can use any definition for the question
-Test:    By using a lighted splint 
-Result:  Makes a pop sound
-Reaction:2H_2(g)+O_2(g) -> 2H_2O(g)
+Test:     By using a lighted splint 
+Result:   Makes a pop sound
+Reaction: 2H_2(g)+O_2(g) -> 2H_2O(g)
 
 Test for water.
    CuSO_4(s) + H_2O(l) -> CuSO_4*5H_2O(s)
